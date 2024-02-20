@@ -46,5 +46,6 @@ __pycache__
 *.lib
 
 install/qml/AliceVision/qmldir
-
+venv
 run.bat
+final-project-pics
